@@ -1,4 +1,4 @@
-# 👨‍💻 Bruno Wilson Moura do Nascimento
+# 👨‍💻 Bruno Wilson
 
 [![Email](https://img.shields.io/badge/Email-bruno.wilson.m@gmail.com-blue?style=flat-square&logo=gmail)](mailto:bruno.wilson.m@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BrunoWilson-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bruno-wilson-moura-0a1031168/)
